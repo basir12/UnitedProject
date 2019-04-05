@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="53349" started-at="2019-02-23T00:37:18Z" finished-at="2019-02-23T00:38:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="53349" started-at="2019-02-23T00:37:18Z" finished-at="2019-02-23T00:38:11Z">
+      <class name="com.week9.test.BrokenLikns_TestPractice">
+        <test-method status="PASS" signature="beforeAllTestStart()[pri:0, instance:com.week9.test.BrokenLikns_TestPractice@127bd23]" name="beforeAllTestStart" is-config="true" duration-ms="181" started-at="2019-02-22T19:37:18Z" finished-at="2019-02-22T19:37:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeAllTestStart -->
+        <test-method status="PASS" signature="beforeEachTestStart()[pri:0, instance:com.week9.test.BrokenLikns_TestPractice@127bd23]" name="beforeEachTestStart" is-config="true" duration-ms="9581" started-at="2019-02-22T19:37:18Z" finished-at="2019-02-22T19:37:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestStart -->
+        <test-method status="PASS" signature="testinglinksingoogle()[pri:0, instance:com.week9.test.BrokenLikns_TestPractice@127bd23]" name="testinglinksingoogle" duration-ms="32061" started-at="2019-02-22T19:37:28Z" finished-at="2019-02-22T19:38:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testinglinksingoogle -->
+        <test-method status="PASS" signature="afterEachTestEnd(org.testng.ITestResult)[pri:0, instance:com.week9.test.BrokenLikns_TestPractice@127bd23]" name="afterEachTestEnd" is-config="true" duration-ms="7943" started-at="2019-02-22T19:38:00Z" finished-at="2019-02-22T19:38:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testinglinksingoogle status=SUCCESS method=BrokenLikns_TestPractice.testinglinksingoogle()[pri:0, instance:com.week9.test.BrokenLikns_TestPractice@127bd23] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestEnd -->
+        <test-method status="PASS" signature="afterAllTestCompleted()[pri:0, instance:com.week9.test.BrokenLikns_TestPractice@127bd23]" name="afterAllTestCompleted" is-config="true" duration-ms="3539" started-at="2019-02-22T19:38:08Z" finished-at="2019-02-22T19:38:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterAllTestCompleted -->
+      </class> <!-- com.week9.test.BrokenLikns_TestPractice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
