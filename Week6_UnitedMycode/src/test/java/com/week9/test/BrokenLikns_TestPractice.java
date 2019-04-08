@@ -40,7 +40,7 @@ public void testingScrollToElement() {
 @Test(enabled = true)
 
 public void testinglinksingoogle() {
-	driver.get("http:www.google.com");
+	driver.get("http:www.walmart.com");
 	// Get all the links
 	List<WebElement> ele = driver.findElements(By.tagName("a"));
 	System.out.println("size:" + ele.size());
